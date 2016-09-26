@@ -41,3 +41,4 @@ C:\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
 C:\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 C:\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 C:\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
