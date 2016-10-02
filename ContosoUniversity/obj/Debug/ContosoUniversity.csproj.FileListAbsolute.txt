@@ -41,4 +41,8 @@ C:\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
 C:\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 C:\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 C:\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
 C:\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
